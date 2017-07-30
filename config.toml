@@ -1,0 +1,46 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Steam - a minimal theme for Hugo"
+theme = "hugo-steam-theme"
+disqusShortname = "anna_kr"
+# Enable Google Analytics be inserting your tracking code
+googleAnalytics = ""
+# Number of posts per page
+paginate = 7
+
+[params]
+	title = "Dr Anna Krystalli"
+	subtitle = "~~Macroecologist~~ Research Software Engineer"
+	copyright = "Released under the MIT license."
+    authorimage = "avatar.jpg"
+    
+	# You can choose between green, orange, red and blue.
+	themecolor = "green"
+
+	# Link custom assets relative to /static
+	favicon   = "favicon.ico"
+	customCSS = []
+	customJS  = []
+
+	# To provide some metadata for search engines and the about section in the footer
+	# feel free to add a few information about you and your website.
+	name = "Anna Krystalli"
+	bio = "research software engineer - #rstats aficionado - open science advocate"
+	description = "somewhere to try and organise my thoughts"
+	
+	# Link your social networks (optional)
+	location = "Sheffield"
+	twitter = "annakrystalli"
+	linkedin = "annakrystalli"
+	googleplus = ""
+	facebook = ""
+	instagram = ""
+	github = "annakrystalli"
+	gitlab = ""
+	bitbucket = ""
+
+	# Customize or translate the strings
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
