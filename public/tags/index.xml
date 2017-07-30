@@ -2,103 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dr Anna Krystalli</title>
-    <link>/tags/</link>
+    <link>https://annakrystalli.github.io/tags/</link>
     <description>Recent content in Tags on Dr Anna Krystalli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Fri, 02 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://annakrystalli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Behavioural Ecology</title>
-      <link>/tags/behavioural-ecology/</link>
+      <link>https://annakrystalli.github.io/tags/behavioural-ecology/</link>
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/behavioural-ecology/</guid>
+      <guid>https://annakrystalli.github.io/tags/behavioural-ecology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>/tags/github/</link>
+      <link>https://annakrystalli.github.io/tags/github/</link>
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/github/</guid>
+      <guid>https://annakrystalli.github.io/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Global Sprint</title>
-      <link>/tags/global-sprint/</link>
+      <link>https://annakrystalli.github.io/tags/global-sprint/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/global-sprint/</guid>
+      <guid>https://annakrystalli.github.io/tags/global-sprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interview</title>
-      <link>/tags/interview/</link>
+      <link>https://annakrystalli.github.io/tags/interview/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/interview/</guid>
+      <guid>https://annakrystalli.github.io/tags/interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mozilla</title>
-      <link>/tags/mozilla/</link>
+      <link>https://annakrystalli.github.io/tags/mozilla/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/mozilla/</guid>
+      <guid>https://annakrystalli.github.io/tags/mozilla/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Innovation</title>
-      <link>/tags/open-innovation/</link>
+      <link>https://annakrystalli.github.io/tags/open-innovation/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/open-innovation/</guid>
+      <guid>https://annakrystalli.github.io/tags/open-innovation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Science</title>
-      <link>/tags/open-science/</link>
+      <link>https://annakrystalli.github.io/tags/open-science/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/open-science/</guid>
+      <guid>https://annakrystalli.github.io/tags/open-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducibility</title>
-      <link>/tags/reproducibility/</link>
+      <link>https://annakrystalli.github.io/tags/reproducibility/</link>
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/reproducibility/</guid>
+      <guid>https://annakrystalli.github.io/tags/reproducibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rmarkdown</title>
-      <link>/tags/rmarkdown/</link>
+      <link>https://annakrystalli.github.io/tags/rmarkdown/</link>
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rmarkdown/</guid>
+      <guid>https://annakrystalli.github.io/tags/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Open Web</title>
-      <link>/tags/the-open-web/</link>
+      <link>https://annakrystalli.github.io/tags/the-open-web/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/the-open-web/</guid>
+      <guid>https://annakrystalli.github.io/tags/the-open-web/</guid>
       <description></description>
     </item>
     
