@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Behavioural Ecology on Dr Anna Krystalli</title>
-    <link>https://annakrystalli.github.io/tags/behavioural-ecology/</link>
+    <link>/tags/behavioural-ecology/</link>
     <description>Recent content in Behavioural Ecology on Dr Anna Krystalli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Fri, 02 Sep 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://annakrystalli.github.io/tags/behavioural-ecology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/behavioural-ecology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Challenge of our generation: reproducible, transparent and reliable science</title>
-      <link>https://annakrystalli.github.io/post/2016-09-02_isbe-2016/</link>
+      <link>/post/2016-09-02_isbe-2016/</link>
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://annakrystalli.github.io/post/2016-09-02_isbe-2016/</guid>
+      <guid>/post/2016-09-02_isbe-2016/</guid>
       <description>Symposium summary: ISBE 2016, 3rd Aug, University of Exeter UK  This post was first published on the Mozilla Science Lab blog
 
 When approached to help organise a post-conference symposium on reproducibility in science at the International Symposium on Behavioural Ecology, I jumped at the opportunity! The symposium was the brainchild of Malika Ihle and Isabel Winney, both post-docs here at the University of Sheffield at the time. As early career scientists, we share feelings of concern and disillusionment by the apparent reproducibility crisis engulfing our profession.</description>
