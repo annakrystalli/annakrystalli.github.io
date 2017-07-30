@@ -1,4 +1,4 @@
-baseurl = "https://annakrystalli.github.io/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Steam - a minimal theme for Hugo"
 theme = "hugo-steam-theme"
