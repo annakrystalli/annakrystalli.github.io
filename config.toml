@@ -7,6 +7,8 @@ disqusShortname = "anna_kr"
 googleAnalytics = ""
 # Number of posts per page
 paginate = 7
+relativeurls = true
+
 
 [params]
 	title = "Dr Anna Krystalli"
