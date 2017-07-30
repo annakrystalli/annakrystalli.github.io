@@ -1,7 +1,0 @@
-+++
-date  = "2015-08-22"
-title = "Activities"
-menu  = "main"
-url = "activities/"
-hide = "true"
-+++
