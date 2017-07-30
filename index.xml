@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr Anna Krystalli</title>
-    <link>/</link>
+    <link>https://annakrystalli.github.io/</link>
     <description>Recent content on Dr Anna Krystalli</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://annakrystalli.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mozsprint 2017 at the University of Sheffield</title>
-      <link>/post/mozsprint-2017-at-the-university-of-sheffield/</link>
+      <link>https://annakrystalli.github.io/post/mozsprint-2017-at-the-university-of-sheffield/</link>
       <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/mozsprint-2017-at-the-university-of-sheffield/</guid>
+      <guid>https://annakrystalli.github.io/post/mozsprint-2017-at-the-university-of-sheffield/</guid>
       <description>This post was first published on the Sheffield RSE blog
 
 The 1st-2nd of June 2017 saw the Mozilla Global Sprint circle the globe for another time this year. It&amp;rsquo;s Mozilla&amp;rsquo;s flagship two-day community event, bringing together people from all over the world to celebrate the power of open collaboration by working on a huge diversity of community led projects, from developing open source software, building open tools to writing curriculum, planning events, and more.</description>
@@ -25,20 +25,20 @@ The 1st-2nd of June 2017 saw the Mozilla Global Sprint circle the globe for anot
     
     <item>
       <title>Mozilla StoryEngine Interview</title>
-      <link>/post/2017-03-18-mozilla-storyengine/</link>
+      <link>https://annakrystalli.github.io/post/2017-03-18-mozilla-storyengine/</link>
       <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/2017-03-18-mozilla-storyengine/</guid>
+      <guid>https://annakrystalli.github.io/post/2017-03-18-mozilla-storyengine/</guid>
       <description>This interview was first published as part of the Mozilla StoryEngine Stories series and accompanied by a StoryEngine summary
 Anna’s story Start by telling me a bit about your work. I’ve always loved working with data. As an undergraduate in Marine Biology and Oceanography, I worked with a large long-term survey data set looking into long term changes in fish egg abundance and timing. I continued work on it for my PhD in Macroecology, I where I also used some cool satellite derived environmental data to look at population dynamics at a regional scale and build models incorporating hydrographic structure.</description>
     </item>
     
     <item>
       <title>Challenge of our generation: reproducible, transparent and reliable science</title>
-      <link>/post/2016-09-02_isbe-2016/</link>
+      <link>https://annakrystalli.github.io/post/2016-09-02_isbe-2016/</link>
       <pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>/post/2016-09-02_isbe-2016/</guid>
+      <guid>https://annakrystalli.github.io/post/2016-09-02_isbe-2016/</guid>
       <description>Symposium summary: ISBE 2016, 3rd Aug, University of Exeter UK  This post was first published on the Mozilla Science Lab blog
 
 When approached to help organise a post-conference symposium on reproducibility in science at the International Symposium on Behavioural Ecology, I jumped at the opportunity! The symposium was the brainchild of Malika Ihle and Isabel Winney, both post-docs here at the University of Sheffield at the time. As early career scientists, we share feelings of concern and disillusionment by the apparent reproducibility crisis engulfing our profession.</description>
@@ -46,20 +46,20 @@ When approached to help organise a post-conference symposium on reproducibility 
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://annakrystalli.github.io/about/</link>
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://annakrystalli.github.io/about/</guid>
       <description>WHO I am *
 I came from Greece, I had a thirst for knowledge (but I did not study at St. Martins college). Instead I completed my undergraduate studies at Plymouth University, gaining a Bsc (hons) in Marine Biology &amp;amp; Oceanography. From there, I moved to the Department of Animal &amp;amp; Plant Science at the University of Sheffield where I have recently completed a PhD in Marine Macroecology, under the supervision of Dr Tom Webb and Prof.</description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>/teaching/</link>
+      <link>https://annakrystalli.github.io/teaching/</link>
       <pubDate>Sat, 22 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>/teaching/</guid>
+      <guid>https://annakrystalli.github.io/teaching/</guid>
       <description>Here&amp;rsquo;s links to teaching material</description>
     </item>
     
