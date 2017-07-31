@@ -692,3 +692,47 @@ h1.posts-tagged {
   font-weight: 400;
   font-size: 16px;
 }
+
+.avatar{
+    height:200px;
+    border: solid 4px #54BE69;
+    border-left-color:#D5EDDA;
+    padding:2px;
+    display:inline-block;  
+    border-radius: 50%;
+    position:relative;
+
+    transform:rotate(0deg);
+    -ms-transform:rotate(0deg);
+    -webkit-transform:rotate(0deg);
+}
+.avatar img{
+    display:block;
+    border-radius: 50%;
+
+    transform:rotate(-45deg);
+    -ms-transform:rotate(-45deg);
+    -webkit-transform:rotate(-45deg);
+}
+.avatar:before, .avatar:after{
+    content:'';
+    position:absolute;
+    background:#fff;
+    z-index:-1;
+
+    transform:rotate(-45deg);
+    -ms-transform:rotate(-45deg);
+    -webkit-transform:rotate(-45deg);
+}
+.avatar:before{
+    height:4px;
+    top:50%;
+    left:2px; right:-5px;
+    margin-top:-2px;
+}
+.avatar:after{
+    width:4px;
+    left:50%;
+    top:2px; bottom:-5px;
+    margin-left:-2px;
+}
