@@ -14,7 +14,7 @@ relativeurls = true
 	title = "Dr Anna Krystalli"
 	subtitle = "~~Macroecologist~~ Research Software Engineer"
 	copyright = "Released under the MIT license."
-    authorimage = "avatar1.jpg"
+    authorimage = "avatar.jpg"
     
 	# You can choose between green, orange, red and blue.
 	themecolor = "green"
