@@ -6,6 +6,13 @@ url = "about/"
 hide = "true"
 +++
 
+<blockquote>
+  <p>"You never change things by fighting the existing reality.
+To change something, build a new model that makes the existing model obsolete."</p>
+  <small>— R. Buckminster Fuller</small>
+</blockquote>
+
+
 ## WHO I am
  
 *
